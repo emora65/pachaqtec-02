@@ -188,7 +188,7 @@ body {
 
        .footer{
            width: 800px
-    
+           
        }
  
         .footer1{
@@ -196,6 +196,8 @@ body {
             width: 800px;
             display: flex;
             font-size: 1.5em;
+            padding: 0;
+            border: 0;
             
         }
          .footer2{
@@ -206,5 +208,17 @@ body {
          .footer3{
              background-color: skyblue;
              width: 800px;
-             text-align: center;
+             text-align: left;
+             padding: 0;
+
+         }
+         .texto9{
+             font-size: 2ex;
+         }
+         .texto10{
+             font-size: 2.4ex;
+             
+         }
+         .texto11{
+             color: thistle;
          }
